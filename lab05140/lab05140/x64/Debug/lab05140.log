@@ -1,0 +1,3 @@
+﻿  lab05140.c
+C:\Users\student\source\repos\lab05140\lab05140.c(11,1): warning C4098: main: функция типа "void", возвращающая значение
+  lab05140.vcxproj -> C:\Users\student\source\repos\lab05140\x64\Debug\lab05140.exe
